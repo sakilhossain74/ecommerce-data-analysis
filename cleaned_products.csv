@@ -1,0 +1,31 @@
+Product_ID,Product_Name,Category,Price
+PROD001,Laptop ,Electronics,55000
+PROD002,Mobile,Electronics,20000
+PROD003,Tablet ,Electronics,25000
+PROD004,Laptop ,Electronics,55000
+PROD005,Headphones ,Electronics,1500
+PROD006,Shoes ,Footwear,2000
+PROD007,T-Shirt,Clothing,400
+PROD008,Mobile,Electronics,20000
+PROD009,Tablet ,Electronics,25000
+PROD010,Watch,Accessories,2400
+PROD011,Bag,Accessories,700
+PROD012,Camera,Electronics,30000
+PROD013,Bag ,Accessories,700
+PROD014,Keyboard,Electronics,2000
+PROD015,Laptop ,Electronics,55000
+PROD016,Headphones  ,Electronics,1500
+PROD017,Headphones,Electronics,1500
+PROD018,Mobile ,Electronics,20000
+PROD019,Watch,Accessories,2400
+PROD020,Keyboard,Electronics,2000
+PROD021,Headphones  ,Electronics,1500
+PROD022,Laptop ,Electronics,55000
+PROD023,Mobile ,Electronics,20000
+PROD024,Watch ,Accessories,2400
+PROD025,Laptop ,Electronics,55000
+PROD026,Mobile ,Electronics,20000
+PROD027,Camera ,Electronics,30000
+PROD028,Shoes,Footwear,2000
+PROD029,Mobile ,Electronics,20000
+PROD030,Watch ,Accessories,2400
